@@ -1,0 +1,1 @@
+{"name":"maxo-railway-panel","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server.js"},"dependencies":{"express":"^5.1.0","better-sqlite3":"^11.10.0","express-session":"^1.18.2"}}
